@@ -26,8 +26,8 @@ An end-to-end Power BI project focused on analyzing fruit sales performance acro
 - Data Modeling
 
 ## Dashboard Preview
-Total Average Sales
-Sales Analysis
+Total Average Sales [https://github.com/Avinash-alli/Fruit-Sales-Analysis-PowerBI/blob/cb502e77d06a3df7fdab0b71150b7b4d9827b55b/Sales%20Analysis.png]
+Sales Analysis []
 
 ## Project Files
 The Power BI PBIX file and supporting datasets are available in this repository.
